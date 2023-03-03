@@ -1,0 +1,12 @@
+address - string
+phone number - integer
+date - integer
+time - float
+bill number - integer
+Serial number - integer
+Item - string
+Qty - integer
+price - float
+amount - float
+cgst - float
+sgst - float
