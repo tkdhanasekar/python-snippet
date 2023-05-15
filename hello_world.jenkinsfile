@@ -1,9 +1,9 @@
 pipeline {
     agent any
     stages {
-        stage('Hello') {
+        stage('GitHub Jenkins Ant Docker Build') {
             steps {
-                echo 'Hello World'
+                git 'https://github.com/tkdhanasekar/python-snippet.git'
             }
         }
     }
