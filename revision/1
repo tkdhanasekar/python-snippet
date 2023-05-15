@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+
+n = int(input("Enter the base length of the triangle: "))
+for i in range(0, n):
+    print("@"*5)
+
+    
+    
+
